@@ -1,0 +1,42 @@
+/* #aa9166 */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+p,h1{
+   color: #aa9166;
+}
+a .brand_text{
+    color: black;
+}
+.btn{
+    border:1px solid #aa9166;
+    color: #aa9166;
+    padding: 10px 50px;
+}
+.btn:hover{
+    border:1px solid #aa9166;
+    background-color: #aa9166;
+    color: #fff;
+    transition: 1s;
+    padding: 10px 50px;
+}
+#del{
+    border: 1px solid rgb(209, 23, 23);
+    color: rgb(209, 23, 23) ;
+}
+#del:hover{
+    border: 1px solid rgb(209, 23, 23);
+    background-color: rgb(209, 23, 23) ;
+    color: #fff;
+}
+#upd{
+    border: 1px solid green;
+    color:green ;
+}
+#upd:hover{
+    border: 1px solid green;
+    background-color: green ;
+    color: #fff;
+}
